@@ -58,5 +58,5 @@ function displayText() {
 }
 
 let iteration = -1;
-const text = ["div.eZra {", "front-end-dev: False;", "True;", "}"];
+const text = ["div.ChessZra {", "front-end-developer = False;", "True;", "}"];
 displayText();
